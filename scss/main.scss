@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #333333;
+}
+
+.header__logo {
+  margin-left: 50px;
+  margin-top: -86px;
+}
+
+.container {
+  width: 1410px;
+  margin: 0 auto;
+  padding: 0 25px;
+
+  .first__header {
+    height: 39px;
+    width: 1440px;
+    display: flex;
+    gap: 9px;
+    background-color: #f9f8f8;
+    align-items: center;
+
+    .header__img {
+      width: 14px;
+      height: 13px;
+    }
+
+    .header__imges {
+      width: 14px;
+      height: 13px;
+      margin-left: 130px;
+    }
+
+    p {
+      font-family: "Futura PT";
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 18px;
+    }
+
+    .inside__header {
+      display: flex;
+      gap: 9px;
+      margin-left: 119px;
+      align-items: center;
+
+      .header__dot {
+        margin-left: 10px;
+        width: 4px;
+        height: 4px;
+      }
+    }
+    .last__part {
+      margin-left: 78px;
+      display: flex;
+      gap: 9px;
+
+      .prag__four {
+        margin-left: 11px;
+      }
+    }
+  }
+  .second__header {
+    width: 1440px;
+    border: 1px;
+    background-color: #ffffff;
+    align-items: center;
+    .fish__img {
+      width: 14px;
+      height: 14px;
+      margin-left: 270px;
+      margin-top: 20px;
+    }
+    .uls {
+      display: flex;
+      gap: 55px;
+      color: red;
+      margin-left: 300px;
+      margin-top: -20px;
+    }
+    .elements__header {
+      display: flex;
+      align-items: center;
+      gap: 3px;
+      margin-left: 1170px;
+      margin-top: -18px;
+    }
+  }
+}
+
+.hero {
+  .container {
+    .two__cards {
+      display: flex;
+      
+      .first__card {
+        .hero__img {
+          width: 1568px;
+          height: 850px;
+          margin-left: -160px;
+          margin-top: -70px;
+        }
+      }
+      .second__card {
+        margin-left: -800px;
+        margin-top: 213px;
+
+        .first__h_one {
+          color: #333333;
+          width: 608px;
+          height: 128px;
+          font-family: "Futura PT";
+          font-style: normal;
+          font-weight: 700;
+          font-size: 70px;
+          line-height: 64px;
+
+          .first__span {
+            color: #78c0de;
+          }
+        }
+        .prag__six {
+          width: 495px;
+          height: 105px;
+          font-family: "Futura PT";
+          font-style: normal;
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 21px;
+          color: #949494;
+          margin-top: 30px;
+        }
+      }
+    }
+  }
+}
