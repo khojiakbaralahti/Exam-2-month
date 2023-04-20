@@ -341,7 +341,6 @@ section {
       }
 
       .two_imput {
-
         display: flex;
         gap: 21px;
         margin-top: 62px;
@@ -366,14 +365,285 @@ section {
           border-radius: 3px;
           padding-top: 15px;
           padding-left: 40px;
-          color: #FFFFFF;
+          color: #ffffff;
         }
       }
 
-      img{
+      img {
         margin-left: 690px;
         margin-top: -310px;
+      }
+    }
+  }
+}
 
+section {
+  .container {
+    .prga_h3 {
+      margin-top: 217px;
+      text-align: center;
+      font-family: "Futura PT";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 48px;
+      line-height: 20px;
+      color: #333333;
+    }
+
+    .three_pic {
+      display: flex;
+      gap: 24px;
+      margin-left: 50px;
+      margin-top: 81px;
+
+      .first__pic {
+        width: 305px;
+        height: 435px;
+        border: 1px solid #e4e4e2;
+        border-radius: 5px;
+        background-color: #e4e4e2;
+
+        .prag_dates {
+          width: 71px;
+          height: 18px;
+          font-family: "Futura PT";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 14px;
+          line-height: 18px;
+          color: #949494;
+          margin-top: 21px;
+          margin-left: 213px;
+        }
+        .prag_first_pic {
+          width: 182px;
+          height: 48px;
+          font-family: "Futura PT";
+          font-style: normal;
+          font-weight: 700;
+          font-size: 22px;
+          line-height: 25px;
+          color: #000000;
+          margin-top: 2px;
+          margin-left: 20px;
+        }
+
+        .prag_first_div2 {
+          width: 244px;
+          height: 60px;
+          font-family: "Futura PT";
+          font-style: normal;
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 20px;
+          color: #949494;
+          margin-top: 10px;
+          margin-left: 20px;
+        }
+        .div_down {
+          display: flex;
+          gap: 15px;
+          margin-top: 20px;
+
+          .last_div_img {
+            margin-top: 37px;
+            margin-left: 20px;
+          }
+          .prag_down {
+            width: 198px;
+            height: 21px;
+            font-family: "Futura PT";
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 21px;
+            color: #333333;
+            margin-top: 40px;
+          }
+        }
+      }
+      .second__pic {
+        display: flex;
+        border: 1px solid #f3f3f3;
+        border-radius: 5px;
+        background-color: #e4e4e2;
+
+        .right_pic {
+          .uls {
+            display: flex;
+            gap: 67px;
+            margin-left: 30px;
+            color: #949494;
+            margin-top: 41px;
+
+            .prag_uls1 {
+              display: flex;
+              gap: 10px;
+              color: #3d9cea;
+            }
+          }
+          .prag_downh {
+            width: 193px;
+            height: 56px;
+            font-family: "Futura PT";
+            font-style: normal;
+            font-weight: 700;
+            font-size: 26px;
+            line-height: 29px;
+            color: #333333;
+            margin-top: 31px;
+            margin-left: 31px;
+          }
+          .prag_downh2 {
+            width: 270px;
+            height: 180px;
+            font-family: "Futura PT";
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 20px;
+            color: #949494;
+            margin-top: 15px;
+            margin-left: 31px;
+          }
+          .div_down22 {
+            display: flex;
+            gap: 15px;
+            margin-top: 20px;
+
+            .last_div_img22 {
+              margin-top: 37px;
+              margin-left: 20px;
+            }
+            .prag_down22 {
+              width: 198px;
+              height: 21px;
+              font-family: "Futura PT";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 16px;
+              line-height: 21px;
+              color: #333333;
+              margin-top: 40px;
+            }
+          }
+        }
+      }
+
+      .thrid__pic {
+        background-color: #e4e4e2;
+
+        .prag-date {
+          width: 66px;
+          height: 18px;
+          font-family: "Futura PT";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 14px;
+          line-height: 18px;
+          color: #949494;
+          margin-top: 19px;
+          margin-left: 212px;
+        }
+
+        .prag_big {
+          width: 182px;
+          height: 50px;
+          font-family: "Futura PT";
+          font-style: normal;
+          font-weight: 700;
+          font-size: 22px;
+          line-height: 25px;
+          color: #000000;
+          margin-top: 3px;
+          margin-left: 30px;
+        }
+
+        .prag_big4 {
+          width: 244px;
+          height: 60px;
+          font-family: "Futura PT";
+          font-style: normal;
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 20px;
+          color: #949494;
+          margin-top: 13px;
+          margin-left: 30px;
+        }
+        .div_down33 {
+          display: flex;
+          gap: 15px;
+          margin-top: 20px;
+
+          .last_div_img33 {
+            margin-top: 37px;
+            margin-left: 20px;
+          }
+          .prag_down33 {
+            width: 198px;
+            height: 21px;
+            font-family: "Futura PT";
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 21px;
+            color: #333333;
+            margin-top: 40px;
+          }
+        }
+      }
+    }
+  }
+}
+
+section {
+  .container {
+    .last_section {
+      margin-top: 265px;
+      position: relative;
+
+      .location {
+        position: absolute;
+        top: 280px;
+        left: 120px;
+      }
+      .prag_last_sec {
+        width: 360px;
+        height: 57px;
+        font-family: "Futura PT";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        color: #ffffff;
+        margin-left: 650px;
+        margin-top: -600px;
+      }
+      .prag_last_sec2 {
+        width: 334px;
+        height: 40px;
+        font-family: "Futura PT";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        color: #949494;
+        margin-left: 660px;
+        margin-top: 15px;
+      }
+      .prag_label {
+        color: #949494;
+        margin-left: 670px;
+        position: absolute;
+        top: 240px;
+      }
+
+      input {
+        width: 27%;
+        height: 44px;
+        margin-left: 650px;
+        margin-top: 63px;
       }
     }
   }
