@@ -102,7 +102,7 @@ a {
   .container {
     .two__cards {
       display: flex;
-      
+
       .first__card {
         .hero__img {
           width: 1568px;
@@ -140,6 +140,48 @@ a {
           color: #949494;
           margin-top: 30px;
         }
+      }
+    }
+  }
+}
+
+section {
+  .container {
+    .small__text {
+      .line {
+        margin-left: 646px;
+      }
+      .left {
+        margin-left: -550px;
+      }
+
+      .prag__seven {
+        width: 753px;
+        height: 78px;
+        font-family: "Futura PT";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        color: #949494;
+        margin-left: 330px;
+        margin-top: 43px;
+      }
+      .right {
+        margin-left: 1200px;
+      }
+      .prag__eight {
+        width: 457px;
+        height: 26px;
+        font-family: "Futura PT";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 26px;
+        color: #333333;
+        margin-left: 520px;
+        margin-top: 65px;
       }
     }
   }

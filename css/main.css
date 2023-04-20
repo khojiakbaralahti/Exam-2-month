@@ -131,4 +131,39 @@ a {
   margin-top: 30px;
 }
 
+section .container .small__text .line {
+  margin-left: 646px;
+}
+section .container .small__text .left {
+  margin-left: -550px;
+}
+section .container .small__text .prag__seven {
+  width: 753px;
+  height: 78px;
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+  color: #949494;
+  margin-left: 330px;
+  margin-top: 43px;
+}
+section .container .small__text .right {
+  margin-left: 1200px;
+}
+section .container .small__text .prag__eight {
+  width: 457px;
+  height: 26px;
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  color: #333333;
+  margin-left: 520px;
+  margin-top: 65px;
+}
+
 /*# sourceMappingURL=main.css.map */
